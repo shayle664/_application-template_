@@ -1,4 +1,4 @@
-#!/usr/bin.env bash
+#!/usr/bin/env bash
 ######## Start safe header #####
 #Develop by: shay.l
 #Purpose: install requird tools
